@@ -1,0 +1,13 @@
+# Python virtual environments and package caches
+.venv/
+**/.venv/
+.uv-cache/
+
+# Python bytecode and notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
