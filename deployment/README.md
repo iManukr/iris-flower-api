@@ -49,12 +49,3 @@ curl.exe -X POST http://127.0.0.1:8000/login `
   -F "username=example" `
   -F "password=secret"
 ```
-
-## Add to Git
-
-From the repository root:
-
-```powershell
-git add deployment
-git commit -m "Add Iris prediction API"
-```

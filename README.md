@@ -4,8 +4,8 @@ This project trains an Iris flower classifier and serves predictions through a F
 
 ## Project structure
 
-- `iris/` — dataset, training notebook, and model-training project files.
-- `deployment/` — FastAPI service, trained model, API README, and GitHub publishing guide.
+- `iris/`: dataset, training notebook and model-training project files.
+- `deployment/`: FastAPI service, trained model and API README.
 
 ## Run the API
 
